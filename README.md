@@ -1,3 +1,11 @@
+# Nama:  Khoiri Faldi Marwan Hakim
+
+# NIM:   H1D024105
+
+# Shift KRS: I
+
+# Shift Baru: H
+
 # 📚 Book Explorer – OpenLibrary Android App
 
 Aplikasi mobile Android untuk mencari dan menjelajahi koleksi buku dari **OpenLibrary API** secara dinamis, tanpa memerlukan API Key.
