@@ -6,8 +6,6 @@ Aplikasi mobile Android untuk mencari dan menjelajahi koleksi buku dari **OpenLi
 
 ## 📱 Screenshots
 
-> *Tambahkan screenshot setelah build selesai*
-
 | Home Screen | Detail Screen |
 |:-----------:|:-------------:|
 | ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) |
