@@ -169,4 +169,6 @@ com.example.responsipemmobkotlin/
 - ✅ **Object (Singleton)** – `RetrofitInstance`, `AppRoutes`
 - ✅ **Coroutines + Flow** – `StateFlow`, `debounce`, `distinctUntilChanged`
 - ✅ **`by lazy`** – inisialisasi Retrofit yang deferred
-# H1D024105_ResponsiPemmobKotlin
+
+
+Video Penjelasan: https://youtu.be/vuJxDbITkEc?si=IavIbCdf43X1mqyN
